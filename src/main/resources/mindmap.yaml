@@ -1,0 +1,10 @@
+root:
+  Nodename:
+    name: "some_name"
+  Nodename2:
+    name: "some_name"
+  Nodename3:
+    name: "some_name"
+    surname:
+      prefix: "prefix"
+    thirdname: "thirdname"
